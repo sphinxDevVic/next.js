@@ -1,1 +1,1 @@
-This is nextjs project.
+This is example nextjs project.
